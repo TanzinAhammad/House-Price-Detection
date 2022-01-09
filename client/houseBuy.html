@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery-slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="appBuy.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="fontawesome/css/all.css">
+    <title>House Buy</title>
+
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
+
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      
+    </script>
+
+
+
+</head>
+<body>
+
+
+    <!-- header -->
+
+
+
+    <header class="homeBGimg">
+        <div class="dark-overlay">
+            
+            <!-- navbar -->
+
+            <div class="navbar navbar-expand-md fixed-top bg-warning">
+                <div class="container">
+                    <a class="navbar-brand" href=""><h1>Sweet Home</h1></a>
+                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav"><span class="navbar-toggler-icon"><i class="fas fa-bars" style="color:#000; font-size:35px;"></i></span></button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item"><a href="home.html" class="nav-link">Home</a></li>
+                            <li class="nav-item dropdown">
+                                <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">Services</a>
+                                <div class="dropdown-menu">
+                                    <a href="houseBuy.html" class="dropdown-item">Buy</a>
+                                    <!-- <a href="" class="dropdown-item">Rent</a>
+                                    <a href="" class="dropdown-item">Commercial</a> -->
+                                </div>
+                            </li>
+                            <!-- <li class="nav-item"><a href="" class="nav-link">Location</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">About Us</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">Contact Us</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">Login</a></li>
+                            <li class="nav-item"><a href="" class="nav-link">Signup</a></li> -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- heading -->
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h1 class="display-3 head-segment text-center">
+                            Urban Home Price Detection & Generalization
+                        </h1>
+                    </div>
+                    <div class="col-lg-12">
+                        <p class="lead text-center d-none d-lg-block">
+                            It is a machine learning based web app. You will get an abstract idea about price of home and commercial space in your desire location also a comparison of different areas.
+                        </p>
+                    </div>
+                </div>
+                <!-- <form action="login.php" method="POST">
+                    <div class="row">
+                        <div class="input-group input-group-lg col-lg-4 col-md-6 resp-input">
+                            <div class="input-group-prepend"> 
+                                <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            </div>
+                            <input type="text" class="form-control" name="user" required>
+                        </div>
+                        <div class="input-group input-group-lg col-lg-4 col-md-6 resp-input">
+                            <div class="input-group-prepend"> 
+                                <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                            </div>
+                            <input type="password" class="form-control" name="pass" required>
+                        </div>
+                        <div class="input-group col-lg-4 col-md-12">
+                            <input type="submit" value="Login" name="submit" class="btn btn-block btn-lg btn-outline-warning">
+                        </div>
+                    </div>
+                </form> -->
+            </div>
+
+        </div>
+    </header>
+
+
+
+    <!-- booking -->
+    
+
+    <div class="book">
+        <div class="container my-5">
+            <form class="mt-5">
+                <div class="form-group row">
+					<label for="area" class="col-sm-4 col-form-label  col-form-label-lg">Area (Square Feet)</label>
+					<div class="col-sm-8">
+						<input type="text" class="form-control form-control-lg" id="uiSqft"
+                        name = "Squareft" value="1000"  placeholder="Ex 1500">
+					</div>
+                </div>
+
+                <fieldset class="form-group">
+                    <div class="row">
+                       	<div class="col-form-label col-form-label-lg col-sm-4 col-md-4 col-lg-4 pt-2">Bed Room</div>
+                      	<div class="col-sm-8 col-md-8 col-lg-8">
+							<div class="row">
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="1">
+									<label class="form-check-label col-form-label-lg" for="gridRadios1">
+									One
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="2">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Two
+									</label>
+								</div>
+								<div class="col-lg-3 col-md-2 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="3">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Three
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios4" value="4">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Four
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios5" value="5">
+									<label class="form-check-label col-form-label-lg" for="gridRadios">
+									Five
+									</label>
+								</div>
+								<div class="col-lg-2 col-md-2 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios" id="gridRadios6" value="6">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Six
+									</label>
+								</div>
+							</div>
+                      	</div>
+                    </div>
+                </fieldset>
+
+
+                <fieldset class="form-group">
+                    <div class="row">
+                       	<div class="col-form-label col-form-label-lg col-sm-4 col-md-4 col-lg-4 pt-2">Bath Room</div>
+                      	<div class="col-sm-8 col-md-8 col-lg-8">
+							<div class="row">
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios11" value="1">
+									<label class="form-check-label col-form-label-lg" for="gridRadios1">
+									One
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios12" value="2">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Two
+									</label>
+								</div>
+								<div class="col-lg-3 col-md-2 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios13" value="3">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Three
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios14" value="4">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Four
+									</label>
+								</div>
+								<div class="col-lg-4 col-md-4 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios15" value="5">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Five
+									</label>
+								</div>
+								<div class="col-lg-2 col-md-2 form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="gridRadios_bathRoom" id="gridRadios16" value="6">
+									<label class="form-check-label col-form-label-lg" for="gridRadios2">
+									Six
+									</label>
+								</div>
+							</div>
+                      	</div>
+                    </div>
+                </fieldset>
+                <div class="form-group row">
+					<label class="col-sm-4 col-form-label  col-form-label-lg" for="inputState">Location</label>
+					<div class="col-sm-8">
+						<select id="uiLocations" class="form-control form-control-lg" name = "location" >
+						<option selected>--Select--</option>
+						<option>Dhanmondi</option>
+						<option>Ghulsan</option>
+                        <option>Rajaji Nagar</option>
+						</select>
+					</div>
+                </div>
+            </form>
+            <div class="form-group row">
+                <label for="area" class="col-sm-4 col-form-label  col-form-label-lg">Predicted Price</label>
+                <div class="col-sm-8" id="uiEstimatedPrice">
+                    <h2><span class="d-block p-2 text-info"><h4 class="text-secondary">Predicted Price is...</h4></span></h2>
+                </div>
+            </div>
+            <button class="btn btn-secondary btn-lg btn-block" onclick="onClickedEstimatePrice()" type="button">Estimate Price</button>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-12 my-5">
+                    <div id="piechart" style="width: 900px; height: 500px;"></div>
+                    <div id="columnchart_values" style="width: 900px; height: 300px;" class="my-5"></div>
+                </div>
+            </div>
+        
+            
+        </div>
+    </div>
+
+
+
+    <!-- footer -->
+
+
+
+    <div class="footer mt-5">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-md-4">
+                    <p>
+                        <strong class="ftxthght">C</strong>hittagong <strong class="ftxthght">U</strong>niversity of <strong class="ftxthght">E</strong>ngineering & <strong class="ftxthght">T</strong>echnology
+                    </p>
+                    <p>
+                        Ashik & Others &copy;Urban Home Price Detection and Categorization, 2021.
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <p>
+                        Software Development Project Sessional <br> 
+                        Cse-300 <br>
+                        Dept. of Cse <br>
+                        Cuet.
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    Follow us: <br>
+                    <img src="img/facebok.png">
+                    <img src="img/googleplus.png">
+                    <img src="img/twiter.png">
+                    <img src="img/youtube.png">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+</body>
+</html>

@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+}
+
+@font-face{
+    font-family: 'Montserrat-medium';
+    font-style: normal;
+    src: url("../font/Montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face{
+    font-family: 'Montserrat-light';
+    font-style: normal;
+    src: url("../font/Montserrat/Montserrat-Light.ttf");
+}
+
+.navbar{
+    font-size: 20px;
+    // box-shadow: 1px 3px white;
+    // background: #292b2c;
+    font-family: 'Montserrat-light', sans-serif;
+    opacity: .9;
+    background: transparent;
+    a{
+        color: black;
+    }
+    li a{
+        transition: 0.6s ease;
+    }
+    a:hover{
+        border-bottom: 4px solid black;
+        color: black;
+    }
+}
+
+.signup{
+    background: url("../img/party2.jpg") no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 800px;
+    font-family: 'Montserrat-medium', sans-serif;
+    margin-top: 80px;
+
+    .dark-overlay{
+        background: rgba(0,0,0,0.3);
+        height: 800px;
+    }
+
+    .container{
+        padding: 30px;
+        
+        .signup-form{
+            background-color: white;
+            margin-top: 50px;
+            padding: 30px;
+            border-radius: 100px;
+        }
+
+        .btn{
+            margin-left: 45%;
+        }
+
+        .flex-margin{
+            margin-left: -5px;
+        }
+    }        
+}
+
+.footer{
+    background: #001825;
+    color: #E0E0E0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding-top: 50px;
+    
+    .ftxthght{
+        font-size: 30px;
+    }
+}
+
+.homeBGimg{
+    background: url("../img/home2.jpg") no-repeat center top;
+    background-size: cover;
+    height: 650px;
+    
+    .dark-overlay{
+        background: rgba(0,0,0,0.3);
+        height: 650px;
+    }
+    
+    .head-segment{
+        margin-top: 200px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    form{
+        margin-top: 100px;
+    }
+}
+
+.do{
+    margin-top: 100px;
+
+    hr{
+        border-top: 1px solid #7F8C8D;
+    }
+
+    .card{
+        h2{
+            font-family:'Montserrat-medium' ;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+@media(max-width: 992px){
+    .homeBGimg{
+        .head-segment{
+            margin-top: 180px;
+            font-size: 60px;
+        }
+
+        .resp-input{
+            margin-bottom: 15px;
+        }
+    }
+}
+
+@media(max-width: 768px){
+    .homeBGimg{
+        .head-segment{
+            margin-top: 150px;
+            font-size: 50px;
+        }
+
+        .resp-input{
+            margin-bottom: 15px;
+        }
+    }
+}

@@ -1,0 +1,4 @@
+To Run Successfully:
+i) Download source code
+ii) Run server (in linux: go to the server folder and run 'python server.py' using command)
+iii) From client folder open '.html' file using any browser

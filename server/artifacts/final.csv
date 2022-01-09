@@ -1,0 +1,657 @@
+,Unnamed: 0,location,total_sqft,bath,price,bhk
+0,0,uttara sector 1,2097,3,19000000,3
+1,1,uttara sector 1,1795,3,12500000,3
+2,2,uttara sector 1,1300,3,13000000,3
+3,3,uttara sector 1,1300,3,16000000,3
+4,4,uttara sector 1,1559,3,12000000,3
+5,5,uttara sector 1,2900,4,26000000,4
+6,6,uttara sector 1,3000,4,39000000,4
+7,7,uttara sector 1,2300,4,25000000,3
+8,8,uttara sector 1,1450,4,11500000,3
+9,9,uttara sector 1,1500,3,15000000,3
+10,10,uttara sector 3,1562,3,13000000,3
+11,11,uttara sector 3,2009,4,19900000,3
+12,12,uttara sector 3,1940,3,18000000,3
+13,13,uttara sector 3,3860,6,35000000,5
+14,14,uttara sector 3,1450,4,13600000,3
+15,15,uttara sector 3,1550,4,13000000,3
+16,16,uttara sector 3,1555,2,11000000,3
+17,17,uttara sector 3,1800,4,20000000,3
+18,18,uttara sector 3,2025,4,26000000,4
+19,19,uttara sector 3,2025,4,25000000,4
+20,20,uttara sector 3,2350,5,23500000,4
+21,21,uttara sector 3,1460,3,12000000,3
+22,22,uttara sector 3,1125,3,8500000,3
+23,23,uttara sector 3,2150,4,14500000,4
+24,24,uttara sector 3,2250,4,14600000,3
+25,25,uttara sector 3,2470,4,24500000,4
+26,26,uttara sector 3,1450,3,10000000,3
+27,27,uttara sector 3,2150,3,15000000,3
+28,28,uttara sector 3,2555,4,19000000,4
+29,29,uttara sector 3,800,1,4200000,1
+30,30,uttara sector 3,1620,3,16400000,3
+31,31,uttara sector 3,1877,3,14500000,3
+32,32,uttara sector 3,1620,3,16400000,3
+33,33,uttara sector 3,2490,4,21000000,4
+34,34,uttara sector 3,2100,4,17000000,4
+35,35,uttara sector 3,1620,3,16400000,3
+36,36,uttara sector 3,3070,5,24600000,5
+37,37,uttara sector 3,1901,3,19000000,3
+38,38,uttara sector 3,2111,3,18000000,3
+39,39,uttara sector 3,1562,3,12500000,3
+40,40,uttara sector 3,1415,3,12000000,3
+41,41,uttara sector 3,1750,3,13500000,3
+42,42,uttara sector 3,2575,4,30900000,3
+43,43,uttara sector 3,1600,3,13600000,3
+44,44,uttara sector 3,1734,3,17000000,3
+45,45,uttara sector 3,2130,3,19200000,3
+46,46,uttara sector 3,1500,3,8800000,3
+47,47,uttara sector 3,3235,5,35000000,4
+48,48,uttara sector 3,2200,4,20000000,3
+49,49,uttara sector 3,2520,5,22500000,4
+50,50,uttara sector 4,2004,3,16000000,3
+51,51,uttara sector 4,1525,3,11500000,3
+52,52,uttara sector 4,3355,4,42000000,4
+53,53,uttara sector 4,1646,4,15200000,3
+54,54,uttara sector 4,2024,3,16200000,3
+55,55,uttara sector 4,1506,3,10500000,3
+56,56,uttara sector 4,1685,4,11400000,3
+57,57,uttara sector 4,1913,4,16500000,3
+58,58,uttara sector 4,2050,3,22500000,3
+59,59,uttara sector 4,2190,3,24100000,3
+60,60,uttara sector 4,2250,3,24800000,3
+61,61,uttara sector 4,1085,2,6500000,2
+62,62,uttara sector 4,2050,3,23900000,3
+63,63,uttara sector 4,2050,3,24900000,3
+64,64,uttara sector 4,1637,3,16000000,3
+65,65,uttara sector 4,2300,4,25000000,3
+66,66,uttara sector 4,2200,4,24000000,3
+67,67,uttara sector 4,1723,4,11000000,3
+68,68,uttara sector 4,2688,4,25000000,4
+69,69,uttara sector 4,1620,4,11500000,3
+70,70,uttara sector 4,1605,4,11500000,3
+71,71,uttara sector 4,1820,4,19000000,3
+72,72,uttara sector 4,2620,4,25000000,3
+73,73,uttara sector 4,1200,2,8500000,3
+74,74,uttara sector 4,1913,5,17300000,3
+75,75,uttara sector 4,1360,3,13000000,3
+76,76,uttara sector 4,1700,3,11800000,3
+77,77,uttara sector 4,1855,3,13100000,3
+78,78,uttara sector 4,1530,4,15000000,3
+79,79,uttara sector 4,1997,4,19500000,3
+80,80,uttara sector 4,1060,2,7500000,2
+81,81,uttara sector 5,1760,3,21500000,3
+82,82,uttara sector 5,1665,3,17000000,3
+83,83,uttara sector 5,807,2,5200000,2
+84,84,uttara sector 5,1297,3,8400000,3
+85,85,uttara sector 5,1400,3,11500000,3
+86,86,uttara sector 5,827,2,6600000,2
+87,87,uttara sector 5,1760,3,21200000,3
+88,88,uttara sector 5,1750,3,14500000,3
+89,89,uttara sector 5,1850,3,15000000,3
+90,90,uttara sector 5,1850,3,14500000,3
+91,91,uttara sector 5,1260,3,7000000,3
+92,92,uttara sector 5,1149,3,6000000,3
+93,93,uttara sector 5,2191,4,18000000,4
+94,94,uttara sector 5,1200,3,8000000,3
+95,95,uttara sector 5,1340,3,10000000,3
+96,96,uttara sector 5,1300,3,9600000,3
+97,97,uttara sector 5,1297,3,9000000,3
+98,98,uttara sector 5,1800,3,14000000,3
+99,99,uttara sector 5,1365,3,8000000,3
+100,100,uttara sector 6,1518,4,13200000,3
+101,101,uttara sector 6,1320,3,11500000,3
+102,102,uttara sector 6,1679,4,13500000,3
+103,103,uttara sector 6,2370,3,21000000,3
+104,104,uttara sector 6,1095,2,7500000,2
+105,105,uttara sector 6,2370,3,22000000,3
+106,106,uttara sector 6,1626,3,12200000,3
+107,107,uttara sector 6,1708,3,14000000,3
+108,108,uttara sector 6,1670,4,12200000,3
+109,109,uttara sector 6,1534,4,12000000,3
+110,110,uttara sector 6,1734,4,16000000,3
+111,111,uttara sector 6,3000,6,22500000,4
+112,112,uttara sector 6,1514,3,12500000,3
+113,113,basundhara-r-a block a,1440,3,9000000,3
+114,114,basundhara-r-a block a,2396,3,13000000,4
+115,115,basundhara-r-a block a,1250,3,10000000,3
+116,116,basundhara-r-a block a,1250,3,9200000,3
+117,117,basundhara-r-a block a,1801,3,12500000,3
+118,118,basundhara-r-a block a,2750,4,24000000,4
+119,119,basundhara-r-a block a,1357,3,8500000,3
+120,120,basundhara-r-a block a,2700,5,26000000,4
+121,121,basundhara-r-a block a,2050,4,16500000,3
+122,122,basundhara-r-a block a,2210,3,19500000,3
+123,123,basundhara-r-a block a,1900,4,17100000,3
+124,124,basundhara-r-a block a,2450,4,25500000,3
+125,125,basundhara-r-a block a,2550,4,26500000,3
+126,126,basundhara-r-a block a,2200,4,13200000,4
+127,127,basundhara-r-a block a,1450,3,10000000,3
+128,128,basundhara-r-a block a,1100,3,7500000,3
+129,129,basundhara-r-a block a,1500,3,12500000,3
+130,130,basundhara-r-a block a,1736,3,12000000,3
+131,131,basundhara-r-a block a,2374,3,20500000,3
+132,132,basundhara-r-a block a,1490,3,9000000,3
+133,133,basundhara-r-a block a,1475,3,12000000,3
+134,134,basundhara-r-a block a,2335,4,25000000,4
+135,135,basundhara-r-a block a,1750,3,13000000,3
+136,136,basundhara-r-a block a,1860,4,17000000,3
+137,137,basundhara-r-a block a,1887,4,15000000,3
+138,138,basundhara-r-a block a,1910,3,16200000,3
+139,139,basundhara-r-a block a,1600,4,13000000,3
+140,140,basundhara-r-a block a,2400,4,19500000,4
+141,141,basundhara-r-a block a,1580,4,10000000,3
+142,142,basundhara-r-a block a,2000,3,17000000,3
+143,143,basundhara-r-a block a,2100,4,21000000,3
+144,144,basundhara-r-a block b,2350,4,19000000,3
+145,145,basundhara-r-a block b,1785,3,13000000,3
+146,146,basundhara-r-a block b,2000,3,22000000,3
+147,147,basundhara-r-a block b,1820,4,14000000,3
+148,148,basundhara-r-a block b,2100,4,17500000,3
+149,149,basundhara-r-a block b,1500,3,10000000,3
+150,150,basundhara-r-a block b,1450,3,9200000,3
+151,151,basundhara-r-a block b,2006,4,14000000,3
+152,152,basundhara-r-a block b,1595,3,12500000,3
+153,153,basundhara-r-a block b,2345,4,20600000,4
+154,154,basundhara-r-a block b,1200,4,11000000,3
+155,155,basundhara-r-a block b,1873,3,15000000,3
+156,156,basundhara-r-a block b,1474,4,10000000,3
+157,157,basundhara-r-a block b,1800,4,20700000,4
+158,158,basundhara-r-a block b,2250,4,22500000,3
+159,159,basundhara-r-a block c,2000,4,15500000,3
+160,160,basundhara-r-a block c,2220,4,18000000,4
+161,161,basundhara-r-a block c,1717,4,11500000,3
+162,162,basundhara-r-a block c,1200,3,8500000,3
+163,163,basundhara-r-a block c,1385,3,10500000,3
+164,164,basundhara-r-a block c,1560,4,12000000,3
+165,165,basundhara-r-a block c,2100,4,18000000,4
+166,166,basundhara-r-a block c,1350,3,9500000,3
+167,167,basundhara-r-a block c,1500,3,10500000,3
+168,168,basundhara-r-a block c,1400,3,9500000,3
+169,169,basundhara-r-a block c,1450,3,9500000,3
+170,171,basundhara-r-a block c,915,2,7000000,2
+171,172,basundhara-r-a block c,1400,3,11000000,3
+172,173,basundhara-r-a block c,1250,3,9500000,3
+173,174,basundhara-r-a block c,1650,3,11000000,3
+174,175,basundhara-r-a block c,1450,3,9500000,3
+175,176,basundhara-r-a block c,2075,3,26500000,3
+176,177,basundhara-r-a block c,1550,4,11000000,3
+177,178,basundhara-r-a block c,2670,4,23000000,4
+178,179,basundhara-r-a block d,1085,3,7500000,3
+179,180,basundhara-r-a block d,1814,3,20000000,3
+180,181,basundhara-r-a block d,1800,4,21500000,3
+181,182,basundhara-r-a block d,1850,3,14500000,3
+182,183,basundhara-r-a block d,2100,4,17800000,3
+183,184,basundhara-r-a block d,1575,3,11500000,4
+184,185,basundhara-r-a block d,1200,3,8500000,3
+185,186,basundhara-r-a block d,2100,3,17800000,3
+186,187,basundhara-r-a block d,1290,3,8400000,3
+187,188,basundhara-r-a block d,2440,3,20000000,3
+188,189,basundhara-r-a block d,1300,3,17500000,3
+189,190,basundhara-r-a block d,1879,4,17000000,3
+190,191,basundhara-r-a block d,2000,3,14500000,3
+191,192,basundhara-r-a block d,2000,4,14500000,3
+192,193,basundhara-r-a block d,4350,6,39000000,6
+193,194,basundhara-r-a block e,2380,5,21000000,4
+194,195,basundhara-r-a block e,2380,4,21000000,4
+195,196,basundhara-r-a block e,1480,3,12500000,3
+196,197,basundhara-r-a block e,2645,4,23000000,4
+197,198,basundhara-r-a block e,1480,3,12500000,3
+198,199,basundhara-r-a block e,1500,3,11000000,3
+199,200,basundhara-r-a block e,1280,3,9000000,3
+200,201,basundhara-r-a block e,1500,3,10500000,3
+201,202,basundhara-r-a block e,1460,4,12000000,3
+202,203,basundhara-r-a block e,1288,3,8728000,3
+203,204,basundhara-r-a block e,2278,5,15000000,3
+204,205,basundhara-r-a block e,1851,4,15000000,3
+205,206,basundhara-r-a block e,2700,4,18000000,4
+206,207,basundhara-r-a block e,1235,3,9000000,3
+207,208,basundhara-r-a block e,1650,3,11000000,3
+208,209,basundhara-r-a block f,1950,3,19000000,4
+209,210,basundhara-r-a block f,935,2,5500000,2
+210,211,basundhara-r-a block f,1420,3,11000000,3
+211,212,basundhara-r-a block f,1550,3,10000000,3
+212,213,basundhara-r-a block f,1422,3,11000000,3
+213,214,basundhara-r-a block f,1700,3,12500000,3
+214,215,basundhara-r-a block f,1650,3,12500000,3
+215,216,basundhara-r-a block f,1550,3,12500000,3
+216,217,basundhara-r-a block f,1662,3,10000000,3
+217,218,basundhara-r-a block f,1550,3,11600000,3
+218,219,basundhara-r-a block f,2000,3,13500000,3
+219,220,basundhara-r-a block f,2703,4,25000000,4
+220,221,basundhara-r-a block f,1730,4,10500000,3
+221,222,basundhara-r-a block f,1550,4,11000000,3
+222,223,basundhara-r-a block f,1255,3,8500000,3
+223,224,basundhara-r-a block g,1550,3,13000000,3
+224,225,basundhara-r-a block g,1400,3,10500000,3
+225,226,basundhara-r-a block g,1476,3,11000000,3
+226,227,basundhara-r-a block g,1750,4,13800000,3
+227,228,basundhara-r-a block g,1525,4,12000000,3
+228,229,basundhara-r-a block g,1870,3,13800000,3
+229,230,basundhara-r-a block g,1570,3,11000000,4
+230,231,basundhara-r-a block g,1650,3,14000000,3
+231,232,basundhara-r-a block g,1253,3,8600000,2
+232,233,basundhara-r-a block g,1550,3,11000000,3
+233,234,basundhara-r-a block g,1520,3,9700000,4
+234,235,basundhara-r-a block g,1624,3,12000000,3
+235,236,basundhara-r-a block g,1530,3,10900000,3
+236,237,basundhara-r-a block g,1500,4,10000000,3
+237,238,basundhara-r-a block g,1305,3,8100000,3
+238,239,basundhara-r-a block g,2393,3,16500000,4
+239,240,gulshan 1,2600,4,31000000,4
+240,241,gulshan 1,2294,4,33000000,3
+241,242,gulshan 1,2030,3,27500000,3
+242,243,gulshan 1,2030,3,29900000,3
+243,244,gulshan 1,2000,3,27000000,3
+244,246,gulshan 1,2972,4,50400000,4
+245,247,gulshan 1,2169,3,32000000,3
+246,248,gulshan 1,2500,3,41000000,3
+247,249,gulshan 1,2409,3,30600000,3
+248,250,gulshan 1,2613,4,35500000,4
+249,253,gulshan 1,1505,3,20000000,3
+250,254,gulshan 1,3827,4,46000000,4
+251,256,gulshan 1,2961,3,45000000,3
+252,257,gulshan 1,1434,3,23600000,3
+253,259,gulshan 1,1850,3,33000000,3
+254,260,gulshan 1,1760,3,31500000,3
+255,261,gulshan 1,1960,3,31500000,3
+256,262,gulshan 1,3350,4,38000000,4
+257,263,gulshan 1,3100,3,45000000,4
+258,264,gulshan 2,3495,5,45000000,5
+259,265,gulshan 2,2906,3,45000000,4
+260,267,gulshan 2,2380,3,30000000,3
+261,269,gulshan 2,2525,3,39000000,3
+262,270,gulshan 2,2091,3,25000000,3
+263,271,gulshan 2,3011,3,45000000,4
+264,272,gulshan 2,2200,3,36000000,3
+265,273,gulshan 2,1975,3,27000000,3
+266,277,gulshan 2,3314,4,49500000,3
+267,278,gulshan 2,2091,3,25000000,3
+268,279,gulshan 2,1850,3,26000000,3
+269,280,gulshan 2,2600,3,35000000,3
+270,281,gulshan 2,2191,3,31500000,3
+271,282,gulshan 2,3698,4,52500000,3
+272,284,mirpur pallabi,1320,3,7500000,3
+273,285,mirpur pallabi,850,2,3700000,2
+274,286,mirpur pallabi,850,2,3100000,2
+275,287,mirpur pallabi,1285,2,6800000,3
+276,288,mirpur pallabi,1460,3,9000000,3
+277,289,mirpur pallabi,1380,3,9700000,3
+278,290,mirpur pallabi,1485,4,8000000,3
+279,291,mirpur pallabi,1554,3,11500000,3
+280,292,mirpur pallabi,1090,3,6000000,3
+281,293,mirpur pallabi,1522,3,9000000,3
+282,294,mirpur pallabi,950,2,5200000,3
+283,295,mirpur pallabi,1390,3,6700000,3
+284,296,mirpur pallabi,1260,3,7900000,3
+285,297,mirpur pallabi,960,3,4900000,3
+286,298,mirpur pallabi,1450,3,14500000,2
+287,299,mirpur section 2,1220,3,6700000,3
+288,300,mirpur section 2,1264,3,11000000,3
+289,301,mirpur section 2,1605,3,13500000,3
+290,302,mirpur section 2,1200,2,5500000,3
+291,303,mirpur section 2,1010,2,6800000,3
+292,304,mirpur section 2,1290,3,7800000,3
+293,305,mirpur section 2,1280,3,7700000,3
+294,306,mirpur ahmed nagar,1200,3,6000000,3
+295,307,mirpur ahmed nagar,1200,3,6000000,3
+296,308,mirpur ahmed nagar,1208,2,6800000,3
+297,309,mirpur ahmed nagar,1350,2,7200000,3
+298,310,mirpur ahmed nagar,1350,3,7200000,3
+299,311,mirpur ahmed nagar,850,2,4300000,2
+300,312,mirpur ahmed nagar,850,2,4300000,2
+301,313,mirpur ahmed nagar,1120,3,6000000,3
+302,314,mirpur ahmed nagar,1500,3,6500000,3
+303,315,mirpur ahmed nagar,1260,3,5000000,3
+304,316,mirpur ahmed nagar,900,2,4000000,2
+305,317,mirpur ahmed nagar,1000,2,4500000,3
+306,318,mirpur ahmed nagar,1276,2,5200000,3
+307,319,mirpur ahmed nagar,1200,3,5040000,3
+308,320,mirpur ahmed nagar,1250,3,5250000,3
+309,321,mirpur ahmed nagar,1350,3,6075000,3
+310,322,mirpur section 10,754,2,4000000,2
+311,323,mirpur section 10,1500,3,10000000,3
+312,324,mirpur section 10,850,2,4800000,2
+313,325,mirpur section 10,650,2,3100000,2
+314,326,mirpur section 10,800,2,4700000,3
+315,327,mirpur section 10,1375,3,10000000,3
+316,328,mirpur section 10,935,2,4800000,2
+317,329,mirpur section 10,1250,3,7800000,3
+318,330,mirpur section 10,1375,3,10300000,3
+319,331,mirpur section 10,1080,2,6000000,3
+320,332,mirpur section 10,1180,2,6500000,3
+321,333,mirpur section 10,1080,2,6500000,3
+322,334,mirpur section 10,1365,3,7508000,3
+323,335,mirpur section 15,1553,3,10500000,3
+324,336,mirpur section 15,1553,3,10000000,3
+325,337,mirpur section 15,1015,2,6000000,2
+326,338,mirpur section 15,1872,4,17000000,4
+327,339,mirpur section 15,1553,3,11000000,3
+328,340,mirpur section 15,1553,3,10000000,3
+329,341,mirpur section 15,980,2,5700000,2
+330,342,mirpur section 15,1040,2,6400000,2
+331,343,mirpur section 15,1708,4,10600000,3
+332,344,mirpur section 15,1872,4,12500000,3
+333,345,mirpur section 15,1553,4,11000000,3
+334,346,mirpur section 15,1175,3,8000000,3
+335,347,mirpur section 15,1553,3,12500000,3
+336,348,mirpur section 15,1872,3,19000000,3
+337,349,mirpur section 11,950,2,4300000,2
+338,350,mirpur section 11,800,2,4200000,2
+339,351,mirpur section 11,819,2,3650000,2
+340,352,mirpur section 11,1220,3,7500000,3
+341,353,mirpur section 11,650,2,3000000,2
+342,354,mirpur section 11,650,2,2900000,2
+343,355,mirpur section 11,650,2,3200000,2
+344,356,mirpur section 11,650,2,2520000,2
+345,357,mirpur section 11,1220,3,7500000,3
+346,358,mirpur section 11,600,2,2300000,2
+347,359,mirpur section 11,900,2,5000000,2
+348,360,mirpur section 11,1300,2,7500000,3
+349,361,mirpur section 11,650,2,3000000,2
+350,362,mirpur section 11,650,2,3100000,2
+351,363,mirpur section 11,600,2,2300000,2
+352,364,mirpur section 11,650,2,4700000,2
+353,365,mirpur section 12,650,2,3000000,2
+354,366,mirpur section 12,920,2,4500000,3
+355,367,mirpur section 12,935,2,5000000,3
+356,368,mirpur section 12,920,2,5000000,3
+357,369,mirpur section 12,935,2,4900000,3
+358,370,mirpur section 12,1450,3,8000000,3
+359,371,mirpur section 12,1300,4,5800000,4
+360,372,mirpur section 12,626,2,3200000,2
+361,373,mirpur section 12,626,2,3000000,2
+362,374,mirpur section 12,1125,3,6700000,3
+363,375,mirpur section 12,650,2,3200000,2
+364,376,mirpur section 12,1770,3,9000000,3
+365,377,mirpur section 12,650,2,3600000,2
+366,378,mirpur section 12,650,2,3600000,2
+367,379,mirpur section 12,650,2,2500000,2
+368,380,mirpur section 12,856,2,3700000,2
+369,381,south monipur,1500,3,7000000,3
+370,382,south monipur,1370,3,6500000,3
+371,383,south monipur,1370,3,6300000,3
+372,384,south monipur,1400,3,6300000,3
+373,385,south monipur,1000,2,4500000,2
+374,386,south monipur,1100,2,5500000,3
+375,387,south monipur,1000,2,4500000,2
+376,388,south monipur,1200,3,5400000,3
+377,389,south monipur,1000,2,4500000,2
+378,390,south monipur,1370,3,6500000,3
+379,391,south monipur,1180,2,5600000,3
+380,392,south monipur,1400,3,6300000,3
+381,393,south monipur,1250,2,5500000,3
+382,394,south monipur,1500,4,7400000,3
+383,395,south monipur,1270,2,5600000,3
+384,396,mirpur paikpara,1350,3,9445000,3
+385,397,mirpur paikpara,1650,4,11400000,4
+386,398,mirpur paikpara,1300,3,6700000,3
+387,399,mirpur paikpara,1350,3,9600000,3
+388,400,mirpur paikpara,1340,3,9500000,3
+389,401,mirpur paikpara,1050,2,4500000,3
+390,402,mirpur paikpara,1275,3,6500000,3
+391,403,mirpur paikpara,1350,3,9600000,3
+392,404,mirpur paikpara,1265,3,6925000,3
+393,405,mirpur paikpara,1350,3,5170000,3
+394,406,mirpur paikpara,1650,4,13000000,4
+395,407,mirpur paikpara,1232,3,6760000,3
+396,408,mirpur paikpara,1232,3,7360000,3
+397,409,mirpur paikpara,1265,3,7558000,3
+398,410,mirpur paikpara,1430,3,7750000,3
+399,411,mirpur section 6,1050,2,6000000,2
+400,412,mirpur section 6,550,2,3000000,2
+401,413,mirpur section 6,700,1,2700000,2
+402,414,mirpur section 6,700,2,2500000,2
+403,415,mirpur section 6,1320,3,7500000,3
+404,416,mirpur section 6,1425,3,8500000,3
+405,417,mirpur section 6,1050,2,6180000,2
+406,418,mirpur section 6,650,2,3000000,2
+407,419,mirpur section 6,650,2,2800000,2
+408,420,mirpur section 6,450,1,2000000,1
+409,421,mirpur section 6,700,1,3000000,2
+410,422,mirpur section 6,700,1,3000000,2
+411,423,mirpur section 6,1250,3,8500000,3
+412,424,mirpur section 6,650,2,2900000,2
+413,425,mirpur section 6,1050,3,4700000,3
+414,426,West Dhanmondi and Shangkar,1280,3,7000000,3
+415,427,West Dhanmondi and Shangkar,1500,3,10200000,3
+416,428,West Dhanmondi and Shangkar,1420,3,9656000,3
+417,429,West Dhanmondi and Shangkar,1400,3,9800000,3
+418,430,West Dhanmondi and Shangkar,1400,3,9800000,3
+419,431,West Dhanmondi and Shangkar,1400,3,9520000,3
+420,432,West Dhanmondi and Shangkar,830,2,5000000,2
+421,433,West Dhanmondi and Shangkar,1465,3,10500000,3
+422,434,West Dhanmondi and Shangkar,1140,3,6500000,3
+423,435,West Dhanmondi and Shangkar,1140,3,6500000,3
+424,436,West Dhanmondi and Shangkar,1440,3,11000000,3
+425,437,West Dhanmondi and Shangkar,1590,4,8700000,4
+426,438,West Dhanmondi and Shangkar,1150,2,7000000,3
+427,439,West Dhanmondi and Shangkar,955,2,6500000,3
+428,440,West Dhanmondi and Shangkar,795,2,4372500,2
+429,441,West Dhanmondi and Shangkar,1530,3,7000000,3
+430,442,West Dhanmondi and Shangkar,1100,3,6500000,3
+431,443,West Dhanmondi and Shangkar,1000,2,4500000,2
+432,444,West Dhanmondi and Shangkar,1025,2,6000000,3
+433,445,West Dhanmondi and Shangkar,950,2,4500000,2
+434,446,West Dhanmondi and Shangkar,1200,3,6000000,3
+435,447,West Dhanmondi and Shangkar,1500,3,10500000,3
+436,448,West Dhanmondi and Shangkar,1400,3,9800000,3
+437,449,West Dhanmondi and Shangkar,1420,3,9940000,3
+438,450,West Dhanmondi and Shangkar,1012,2,6000000,2
+439,451,West Dhanmondi and Shangkar,1388,3,10826400,3
+440,452,West Dhanmondi and Shangkar,1500,3,9450000,3
+441,453,West Dhanmondi and Shangkar,1530,3,9639000,3
+442,454,West Dhanmondi and Shangkar,1530,3,10700000,3
+443,455,West Dhanmondi and Shangkar,1100,3,5500000,3
+444,456,West Dhanmondi and Shangkar,1530,3,9639000,3
+445,457,West Dhanmondi and Shangkar,1100,3,7000000,3
+446,458,West Dhanmondi and Shangkar,1500,3,9450000,3
+447,459,Dhanmondi Sher-E-Bangla Road,1270,2,8955000,3
+448,460,Dhanmondi Sher-E-Bangla Road,1200,2,8500000,3
+449,461,Dhanmondi Sher-E-Bangla Road,1200,2,8500000,3
+450,462,Dhanmondi Sher-E-Bangla Road,1270,2,8955000,3
+451,463,Dhanmondi Sher-E-Bangla Road,1270,2,8955000,3
+452,464,Dhanmondi Sher-E-Bangla Road,1100,2,7850000,3
+453,465,Dhanmondi Sher-E-Bangla Road,1160,2,8240000,3
+454,466,Dhanmondi Sher-E-Bangla Road,1270,2,8955000,3
+455,467,Dhanmondi Sher-E-Bangla Road,1200,2,8500000,3
+456,468,Dhanmondi Sher-E-Bangla Road,1160,2,8240000,3
+457,469,Dhanmondi Road No 9A,1630,4,13000000,3
+458,470,Dhanmondi Road No 9A,2000,3,26000000,3
+459,471,Dhanmondi Road No 9A,2280,3,28500000,3
+460,472,Dhanmondi Road No 9A,1350,2,16500000,3
+461,473,Dhanmondi Road No 9A,1376,4,12000000,3
+462,474,Dhanmondi Road No 9A,650,2,5600000,2
+463,475,Dhanmondi Road No 9A,3030,4,45000000,4
+464,476,Dhanmondi Road No 9A,1880,3,24000000,3
+465,477,Dhanmondi Road No 9A,2327,4,25000000,3
+466,478,Dhanmondi Road No 9A,2327,4,24000000,3
+467,479,Dhanmondi Road No 9A,2924,5,37000000,4
+468,480,Dhanmondi Road No 9A,1521,3,15600000,3
+469,481,Dhanmondi Road No 9A,2033,5,30000000,3
+470,482,Dhanmondi Road No 9A,2150,3,23500000,3
+471,483,Dhanmondi Road No 9A,2600,4,30000000,4
+472,484,Dhanmondi Road No 9A,1573,4,12500000,4
+473,485,Dhanmondi Road No 9A,1050,2,12000000,2
+474,486,Dhanmondi Road No 9A,1050,2,12000000,2
+475,487,Dhanmondi Road No 9A,1800,3,11000000,3
+476,488,Dhanmondi Road No 9A,2150,4,34400000,3
+477,489,Dhanmondi Road No 8A,1200,3,9000000,3
+478,490,Dhanmondi Road No 8A,1005,2,8000000,3
+479,491,Dhanmondi Road No 8A,1240,3,8000000,3
+480,492,Dhanmondi Road No 8A,1825,4,22000000,3
+481,493,Dhanmondi Road No 8A,1800,3,20000000,3
+482,494,Dhanmondi Road No 8A,1350,3,11500000,3
+483,495,Dhanmondi Road No 8A,1590,3,15000000,3
+484,496,Dhanmondi Road No 8A,2600,3,35000000,3
+485,497,Dhanmondi Road No 8A,1200,3,8500000,3
+486,498,Dhanmondi Road No 8A,1362,3,12000000,3
+487,499,Dhanmondi Road No 8A,1800,4,23000000,3
+488,500,Dhanmondi Road No 8A,1250,3,12000000,3
+489,501,Dhanmondi Road No 8A,2250,5,34875000,3
+490,502,Dhanmondi Road No 8A,1290,3,12000000,3
+491,503,Dhanmondi Road No 8A,2010,3,20000000,3
+492,504,Dhanmondi Road No 8A,1537,4,20000000,3
+493,505,Dhanmondi Road No 8A,1010,2,8500000,3
+494,506,Dhanmondi Road No 8A,1689,3,16500000,3
+495,507,Dhanmondi Road No 8A,1920,4,15200000,3
+496,508,Dhanmondi Road No 8A,1200,3,9000000,3
+497,509,Dhanmondi Road No 8A,1362,3,11500000,3
+498,510,Dhanmondi Road No 8A,1175,3,10000000,3
+499,511,Dhanmondi Road No 8A,1816,4,18000000,3
+500,512,Dhanmondi Road No 8A,1000,2,6000000,2
+501,513,Dhanmondi Road No 12,3100,3,51680000,3
+502,514,Dhanmondi Road No 12,3030,3,50574000,3
+503,515,Dhanmondi Road No 12,2929,3,48978200,3
+504,516,Dhanmondi Road No 12,3096,3,51616800,3
+505,517,Dhanmondi Road No 12,3151,4,52485800,3
+506,518,Dhanmondi Road No 12,3100,4,51680000,3
+507,519,Dhanmondi Road No 12,3030,3,50574000,3
+508,520,Dhanmondi Road No 12,2929,3,58978200,3
+509,521,Dhanmondi Road No 12,3096,3,51616800,3
+510,522,Dhanmondi Road No 12,2984,3,51093380,3
+511,523,Dhanmondi Shukrabad,3191,5,33000000,4
+512,524,Dhanmondi Shukrabad,2464,3,28861000,3
+513,525,Dhanmondi Shukrabad,2850,4,37000000,4
+514,526,Dhanmondi Shukrabad,1600,3,10500000,3
+515,527,Dhanmondi Shukrabad,1600,3,10500000,3
+516,528,Dhanmondi Shukrabad,1400,3,8800000,3
+517,529,Dhanmondi Shukrabad,1156,3,6936000,3
+518,530,Dhanmondi Shukrabad,1365,3,8872500,3
+519,531,Dhanmondi Shukrabad,1388,3,13880000,3
+520,532,Dhanmondi Shukrabad,2170,3,25000000,3
+521,533,Dhanmondi Shukrabad,1250,3,7500000,3
+522,534,West Dhanmondi,1550,3,11500000,3
+523,535,West Dhanmondi,1272,3,11000000,3
+524,536,West Dhanmondi,1550,3,11500000,3
+525,537,West Dhanmondi,1550,3,11500000,3
+526,538,West Dhanmondi,1550,3,11500000,3
+527,539,West Dhanmondi,2616,4,25000000,4
+528,540,West Dhanmondi,2356,4,20500000,4
+529,541,West Dhanmondi,1550,3,11500000,3
+530,542,West Dhanmondi,860,2,5500000,2
+531,543,West Dhanmondi,1075,3,6500000,3
+532,544,West Dhanmondi,950,2,4500000,2
+533,545,West Dhanmondi,2360,3,21000000,3
+534,546,West Dhanmondi,1458,3,9500000,3
+535,547,West Dhanmondi,1050,2,6300000,2
+536,548,Mohammadpur,1662,3,8800000,3
+537,549,Mohammadpur,950,2,6600000,2
+538,550,Mohammadpur,950,2,6600000,2
+539,551,Mohammadpur,1495,4,8500000,4
+540,552,Mohammadpur,860,2,5300000,2
+541,553,Mohammadpur,1441,3,8800000,3
+542,554,Mohammadpur,1105,4,6500000,4
+543,555,Mohammadpur,950,2,5000000,2
+544,556,Mohammadpur,1230,3,13000000,3
+545,557,Mohammadpur,1760,4,11000000,3
+546,558,Mohammadpur,1330,3,8800000,3
+547,559,Mohammadpur,950,3,9050000,3
+548,560,Mohammadpur,1400,4,10920000,4
+549,561,Mohammadpur,1180,3,5500000,3
+550,562,Mohammadpur,1350,4,8970000,4
+551,563,Mohammadpur,1350,4,8970000,4
+552,564,Mohammadpur,1050,2,5000000,2
+553,565,Mohammadpur,1455,3,6024900,3
+554,566,Mohammadpur,1445,3,6024900,3
+555,567,Mohammadpur,1050,2,4700000,2
+556,568,Mohammadpur,1180,3,5200000,3
+557,569,Mohammadpur,1120,3,4700000,3
+558,570,Mohammadpur,1455,3,6024900,3
+559,571,Mohammadpur,1455,3,6024900,3
+560,572,Mohammadpur,1445,3,6024900,3
+561,573,Mohammadpur,1455,3,6024900,3
+562,574,Mohammadpur,1455,3,6024900,3
+563,575,Mohammadpur,1410,3,9000000,3
+564,576,Mohammadpur,1236,3,5800000,3
+565,577,Mohammadpur,1306,3,6200000,3
+566,578,Mohammadpur,1236,3,5700000,3
+567,579,Mohammadpur,1236,3,5300000,3
+568,580,Mohammadpur,1306,3,5700000,3
+569,581,Mohammadpur,1455,3,6024900,3
+570,582,Mohammadpur,1455,3,6024900,3
+571,583,Mohammadpur,1455,3,6024900,3
+572,584,Mohammadpur,1455,3,6024900,3
+573,585,Mohammadpur,1250,3,3750000,3
+574,586,Mohammadpur,1250,3,3750000,3
+575,587,Mohammadpur,1348,3,5903520,3
+576,588,Mohammadpur,1455,3,6024900,3
+577,589,Mohammadpur,1250,3,3750000,3
+578,590,Mohammadpur,1348,3,5478900,3
+579,591,Mohammadpur,1410,3,8800000,3
+580,592,Mohammadpur,1760,4,11000000,3
+581,593,Mohammadpur,1190,3,5436000,3
+582,594,Mohammadpur,2679,5,12000000,5
+583,595,Mohammadpur,1220,3,5568000,3
+584,596,Mohammadpur,1250,3,3750000,3
+585,597,Mohammadpur,1348,3,5761680,3
+586,598,Mohammadpur,1250,3,3750000,3
+587,599,Mohammadpur,1170,3,5928000,3
+588,600,Mohammadpur,1170,3,4888000,3
+589,601,Mohammadpur,1450,3,13500000,3
+590,602,Mohammadpur,1450,3,13500000,3
+591,603,Mohammadpur,1375,3,6500000,3
+592,604,Mohammadpur,1290,3,5876000,3
+593,605,Mohammadpur,1290,3,5876000,3
+594,606,Mohammadpur,1220,3,5568000,3
+595,607,Mohammadpur,1190,3,5436000,3
+596,608,Mohammadpur,1290,3,5876000,3
+597,609,Mohammadpur,1220,3,5568000,3
+598,610,Mohammadpur,1220,3,5568000,3
+599,611,Mohammadpur,1190,3,5436000,3
+600,612,Mohammadpur,1290,3,5876000,3
+601,613,Mohammadpur,1324,3,5700000,3
+602,614,Mohammadpur,1324,3,5700000,3
+603,615,Mohammadpur,1324,3,5700000,3
+604,616,Mohammadpur,1355,3,6100000,3
+605,617,Mohammadpur,1250,3,3750000,3
+606,618,Mohammadpur,1250,3,4575000,3
+607,619,Mohammadpur,1230,3,4505000,3
+608,620,Mohammadpur,1230,3,4505000,3
+609,621,Mohammadpur,1250,3,4575000,3
+610,622,Mohammadpur,1250,3,4575000,3
+611,623,Mohammadpur,1230,3,4505000,3
+612,624,Mohammadpur,1455,3,6024900,3
+613,625,Mohammadpur,1190,3,5436000,3
+614,626,Mohammadpur,1420,3,6700000,3
+615,627,Mohammadpur,1400,4,8200000,4
+616,628,Mohammadpur,1400,4,8200000,4
+617,629,Mohammadpur,1700,4,9850000,4
+618,630,Mohammadpur,1700,4,9850000,4
+619,631,Mohammadpur,1461,3,6400000,3
+620,632,Mohammadpur,1420,3,6700000,3
+621,633,Mohammadpur,1420,3,6700000,3
+622,634,Mohammadpur,900,2,6000000,3
+623,635,Mohammadpur,950,2,4200000,2
+624,636,Mohammadpur,1310,3,8360000,3
+625,637,Mohammadpur,1608,3,14000000,3
+626,638,Mohammadpur,1300,3,8700000,3
+627,639,Mohammadpur,1420,4,6700000,3
+628,640,Mohammadpur,1420,3,6700000,3
+629,641,Mohammadpur,1470,3,6900000,3
+630,642,Mohammadpur,1470,3,6900000,3
+631,643,Mohammadpur,1470,3,6900000,3
+632,644,Mohammadpur,1470,3,6900000,3
+633,645,Mohammadpur,820,2,3500000,2
+634,646,Mohammadpur,1310,3,8360000,3
+635,647,Mohammadpur,1375,3,12000000,3
+636,648,Mohammadpur,1745,3,18000000,4
+637,649,Mohammadpur,2000,3,15700000,3
+638,650,Mohammadpur,1420,3,6700000,3
+639,651,Mohammadpur,960,2,3500000,2
+640,652,Mohammadpur,700,2,5400000,2
+641,653,Mohammadpur,1310,3,8360000,3
+642,654,Mohammadpur,2334,3,24500000,4
+643,655,Mohammadpur,1350,3,8800000,3
+644,656,Mohammadpur,1150,3,7600000,3
+645,657,Mohammadpur,1200,2,6500000,3
+646,658,Mohammadpur,1120,3,4756000,3
+647,659,Mohammadpur,980,3,4224000,3
+648,660,Mohammadpur,1300,3,8300000,3
+649,661,Mohammadpur,1300,3,8300000,3
+650,662,Mohammadpur,1100,3,4700000,3
+651,663,Mohammadpur,1750,4,9300000,4
+652,664,Mohammadpur,1300,3,8300000,3
+653,665,Mohammadpur,1300,3,8300000,3
+654,666,Mohammadpur,980,3,4224000,3
+655,667,Mohammadpur,830,2,4000000,2
